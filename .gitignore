@@ -1,0 +1,4 @@
+node_modules/
+.env
+.temp_stash/
+generate-history.js
