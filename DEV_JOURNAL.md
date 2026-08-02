@@ -1,1 +1,2 @@
 - Initial commit: Project outline
+- Researching queueing theory and load balancing
