@@ -1,3 +1,4 @@
 - Initial commit: Project outline
 - Researching queueing theory and load balancing
 - Setup basic project structure and npm init
+- Install dependencies: http-proxy
