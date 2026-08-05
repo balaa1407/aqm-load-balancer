@@ -2,3 +2,4 @@
 - Researching queueing theory and load balancing
 - Setup basic project structure and npm init
 - Install dependencies: http-proxy
+- Drafting basic Round-Robin logic
