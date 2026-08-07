@@ -3,3 +3,4 @@
 - Setup basic project structure and npm init
 - Install dependencies: http-proxy
 - Drafting basic Round-Robin logic
+- Adding test backend servers for simulation
