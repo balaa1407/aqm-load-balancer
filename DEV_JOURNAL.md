@@ -4,3 +4,4 @@
 - Install dependencies: http-proxy
 - Drafting basic Round-Robin logic
 - Adding test backend servers for simulation
+- Fixing port binding issues in test-backends
