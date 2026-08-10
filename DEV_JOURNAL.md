@@ -6,3 +6,4 @@
 - Adding test backend servers for simulation
 - Fixing port binding issues in test-backends
 - Refactoring test servers to simulate 100ms processing delay
+- Writing basic proxy server
