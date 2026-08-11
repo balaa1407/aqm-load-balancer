@@ -7,3 +7,4 @@
 - Fixing port binding issues in test-backends
 - Refactoring test servers to simulate 100ms processing delay
 - Writing basic proxy server
+- Proxy server now forwards requests
