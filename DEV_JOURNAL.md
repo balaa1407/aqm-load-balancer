@@ -8,3 +8,4 @@
 - Refactoring test servers to simulate 100ms processing delay
 - Writing basic proxy server
 - Proxy server now forwards requests
+- Adding error handling to proxy to prevent crashes
