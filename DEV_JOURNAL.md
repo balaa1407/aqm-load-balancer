@@ -9,3 +9,4 @@
 - Writing basic proxy server
 - Proxy server now forwards requests
 - Adding error handling to proxy to prevent crashes
+- Researching CoDel and Active Queue Management
