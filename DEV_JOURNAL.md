@@ -10,3 +10,4 @@
 - Proxy server now forwards requests
 - Adding error handling to proxy to prevent crashes
 - Researching CoDel and Active Queue Management
+- Writing DEV_JOURNAL on Little's Law concepts
