@@ -13,3 +13,4 @@
 - Writing DEV_JOURNAL on Little's Law concepts
 - Implementing basic queue array for incoming requests
 - Adding target and interval constants for AQM
+- Refactoring index.js to use processQueue loop
