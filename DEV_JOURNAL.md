@@ -16,3 +16,4 @@
 - Refactoring index.js to use processQueue loop
 - Tracking enqueueTime for Sojourn Time calculation
 - Implementing dropping state logic
+- Fixing bug where dropping state never exited
