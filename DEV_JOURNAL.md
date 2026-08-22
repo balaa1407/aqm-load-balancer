@@ -17,3 +17,4 @@
 - Tracking enqueueTime for Sojourn Time calculation
 - Implementing dropping state logic
 - Fixing bug where dropping state never exited
+- Adding console logs for queue lengths and dropped requests
