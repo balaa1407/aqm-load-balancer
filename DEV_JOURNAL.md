@@ -18,3 +18,4 @@
 - Implementing dropping state logic
 - Fixing bug where dropping state never exited
 - Adding console logs for queue lengths and dropped requests
+- Tuning CoDel target latency to 50ms
