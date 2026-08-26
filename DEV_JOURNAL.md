@@ -20,3 +20,4 @@
 - Adding console logs for queue lengths and dropped requests
 - Tuning CoDel target latency to 50ms
 - Adding connection limits (MAX_CONCURRENT_PER_BACKEND)
+- Hooking into proxyRes to free up capacity
