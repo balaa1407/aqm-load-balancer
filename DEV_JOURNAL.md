@@ -21,3 +21,4 @@
 - Tuning CoDel target latency to 50ms
 - Adding connection limits (MAX_CONCURRENT_PER_BACKEND)
 - Hooking into proxyRes to free up capacity
+- Handling proxy error events for capacity management
