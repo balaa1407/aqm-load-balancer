@@ -23,3 +23,4 @@
 - Hooking into proxyRes to free up capacity
 - Handling proxy error events for capacity management
 - Creating load-test.js script
+- Drafting flash crowd simulation logic
