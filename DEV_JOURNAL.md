@@ -24,3 +24,4 @@
 - Handling proxy error events for capacity management
 - Creating load-test.js script
 - Drafting flash crowd simulation logic
+- Using Promise.all for concurrent blast
