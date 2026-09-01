@@ -25,3 +25,4 @@
 - Creating load-test.js script
 - Drafting flash crowd simulation logic
 - Using Promise.all for concurrent blast
+- Fixing timeout errors in load-test
