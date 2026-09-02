@@ -26,3 +26,4 @@
 - Drafting flash crowd simulation logic
 - Using Promise.all for concurrent blast
 - Fixing timeout errors in load-test
+- Adding success and dropped counters to load-test
