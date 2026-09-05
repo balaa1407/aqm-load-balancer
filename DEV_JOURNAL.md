@@ -29,3 +29,4 @@
 - Adding success and dropped counters to load-test
 - Running baseline tests vs Round Robin (AQM disabled)
 - Documenting baseline failure (cascading failure simulation)
+- Enabling AQM and running load test again
