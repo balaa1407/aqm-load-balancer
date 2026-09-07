@@ -31,3 +31,4 @@
 - Documenting baseline failure (cascading failure simulation)
 - Enabling AQM and running load test again
 - AQM successfully shedding load!
+- Tuning MAX_CONCURRENT to 5 for better throughput
