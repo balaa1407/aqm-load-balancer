@@ -34,3 +34,4 @@
 - Tuning MAX_CONCURRENT to 5 for better throughput
 - Cleaning up console outputs
 - Writing final project documentation in README
+- Explaining the Restaurant Analogy in docs
