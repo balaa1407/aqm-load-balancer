@@ -36,3 +36,4 @@
 - Writing final project documentation in README
 - Explaining the Restaurant Analogy in docs
 - Adding Queueing Theory math to docs
+- Formatting load test results in README
