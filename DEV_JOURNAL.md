@@ -37,3 +37,4 @@
 - Explaining the Restaurant Analogy in docs
 - Adding Queueing Theory math to docs
 - Formatting load test results in README
+- Final code cleanup and removing debug logs
