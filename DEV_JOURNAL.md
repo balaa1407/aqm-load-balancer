@@ -38,3 +38,4 @@
 - Adding Queueing Theory math to docs
 - Formatting load test results in README
 - Final code cleanup and removing debug logs
+- Adding instructions on how to run the project
