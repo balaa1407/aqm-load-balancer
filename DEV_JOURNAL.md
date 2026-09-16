@@ -39,3 +39,4 @@
 - Formatting load test results in README
 - Final code cleanup and removing debug logs
 - Adding instructions on how to run the project
+- Reviewing AQM logic for edge cases
