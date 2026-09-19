@@ -41,3 +41,4 @@
 - Adding instructions on how to run the project
 - Reviewing AQM logic for edge cases
 - Fixing load test completion time calculation
+- Updating comments in index.js for clarity
